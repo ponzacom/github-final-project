@@ -1,5 +1,3 @@
-# simple-interest-calculator
-
 # Simple Interest Calculator
 
 A simple Python-based calculator for computing simple interest on loans or investments.
